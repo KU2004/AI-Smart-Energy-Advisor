@@ -65,5 +65,5 @@ This project solves that by:
 
 ---
 
-## 🏗️ Project Structure
+
 
